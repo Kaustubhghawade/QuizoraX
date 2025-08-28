@@ -177,6 +177,7 @@ export default function CreateQuiz() {
            Save Quiz
         </motion.button>
       </motion.div>
+     <div className="bg-[#D8D2C2] text-[#4A4947] px-6 py-2 rounded-lg mt-4 hover:bg-[#4A4947] hover:text-[#D8D2C2] "> <a href="/dashboard">Back</a></div>
     </div>
   );
 }
